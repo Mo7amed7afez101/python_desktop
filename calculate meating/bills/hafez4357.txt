@@ -1,0 +1,22 @@
+	welcome Billing Area
+Bill No: 4357
+Customer Name: hafez
+Customer Phone: 01210460925
+=============================================
+Products	Price	QTY	Total Price
+=============================================
+Red Meat	120	1	120
+Lean Meat	120	1	120
+Cold Meat	120	1	120
+Calf Liver	130	2	260
+Head Meat	60	1	60
+Calf Tripe	30	2	60
+Vasha	40	1	40
+Fats	10	1	10
+Calf Trotters	50	2	100
+---------------------------------------------
+Total Meat Price: 620
+Total New Meat Price: 270
+Total Price: 890
+---------------------------------------------
+

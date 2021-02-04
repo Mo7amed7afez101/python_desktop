@@ -1,0 +1,17 @@
+	welcome Billing Area
+Bill No: 8945
+Customer Name: mohamed hafez
+Customer Phone: 012030533816
+=============================================
+Products	Price	QTY	Total Price
+=============================================
+Red Meat	120	1	120
+Lean Meat	150	1	150
+Cold Meat	120	1	120
+Calf_Liver	130	2	260
+---------------------------------------------
+Total Meat Price: 650
+Total New Meat Price: 0
+Total Price: 650
+---------------------------------------------
+
